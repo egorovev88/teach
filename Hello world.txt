@@ -1,5 +1,4 @@
-print ("hello world!");
-print ("hello");
-print ("hello my dear friend");
-print ("privet");
-
+print ("hello world;");
+print ("hello;");
+print ("hello my dear friend;");
+print ("privet;");
