@@ -1,4 +1,3 @@
 print ("wellcome");
 print ("how do you do");
 print ("hi");
-print ("glad to see you");
